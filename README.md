@@ -10,4 +10,4 @@ ACRE:
 
 MFI:
 
-![](Figure/Overview.png)
+![](Figure/MFI.png)
