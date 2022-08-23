@@ -1,1 +1,1 @@
-# CMM-Net
+# CM-MLP
